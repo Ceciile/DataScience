@@ -1,9 +1,9 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python2.7
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec 13 10:21:21 2017
 
-@author: aym
+@author: qianqian
 """
 #jeux de test uci iris ,breast cancer wiconsn , mushroom , spambase
 
